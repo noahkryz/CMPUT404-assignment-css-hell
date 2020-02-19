@@ -23,16 +23,18 @@ Code is licensed under the Apache 2.0 license.
 
 Questions:
 ===========
-**Changes made in the gutenberg.html documents**
-Centered the images in the page
-Changed the colour of the background
-Changed the clicked colour to be red, not blue
-Made the first letter of the paragraphs uppercase, like in some old books
-Made the headers all different sizes and gave them a margin
-Changed the hyperlink hover to red, not blue
-Increased the size of the font of the text
-Centered the chapter title/number
+**Changes made in the gutenberg.html documents**  
+- Centered the images in the page
+- Changed the colour of the background
+- Changed the clicked colour to be red, not blue
+- Made the first letter of the paragraphs uppercase, like in some old books
+- Made the headers all different sizes and gave them a margin
+- Changed the hyperlink hover to red, not blue
+- Increased the size of the font of the text
+- Centered the chapter title/number
 
+**Homepage**
+I used w3schools.com to get help with the CSS, but no chunks of CSS were directly copy+pasted.
 
 References:
 ===========

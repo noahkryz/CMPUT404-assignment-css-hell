@@ -1,0 +1,150 @@
+body {
+	color: black;
+	background-image:url("space-background.jpg");
+	margin: 0;
+	font-family: Tahoma, Geneva, sans-serif;
+	/* text-align: justify; */
+	height: 100%;
+	width: 100%
+}
+
+header {
+	background-image:url("space-background.jpg");
+	height: 6em;
+}
+
+h1, h2 {
+	font-size: 1.5em;
+	margin-top: 0.6em;
+}
+
+h3 {
+	font-size: 1.4em;
+	margin-top: 0;
+	height: 1.5em;
+	text-align: center;
+	/* background: #d4d926; */
+}
+
+p {
+	margin: 1em;
+	color: orchid;
+	font-weight: bold;
+}
+
+nav {
+	text-align: center;
+	display: block;
+}
+
+.left-container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	flex-direction: column;
+	float: left;
+	width: 75%;
+	padding-top: 2em;
+	/* margin-top: 1em; */
+	/* margin: auto; */
+	/* margin-left: 2em; */
+}
+
+.right-container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	flex-direction: column;
+	float: right;
+	width: 25%;
+}
+
+.experience {
+	/* flex-grow: 1; */
+	order: 1;
+	width: 50em;
+	/* justify-content: normal; */
+	/* margin-top: 1em; */
+	margin-left: 6em;
+	color: red;
+	font-weight: bold;
+	text-align: center;
+	/* border-style: solid; */
+	/* background: #88d0c7 ; */
+}
+
+.about-me {
+	/* flex-grow: 1; */
+	/* order: 0; */
+	width: 50em;
+	color: pink;
+	/* margin-top: 1em; */
+	margin-left: 6em;
+	font-size: larger;
+	text-align: center;
+	font-weight: bold;
+	/* background: #88d0c7 ; */
+}
+
+.work-history {
+	/* flex-grow: 1; */
+	width: 50em;
+	/* margin-top: 1em; */
+	margin-left: 6em;
+	color: yellow;
+	text-align: center;
+	/* background: #88d0c7 ; */
+}
+
+.need-to-know {
+	/* flex-grow: 1; */
+	/* vertical-align: baseline; */
+	width: 15em;
+	color: red;
+	/* margin: 1em; */
+	/* border-style: solid; */
+	/* background: #88d0c7 ; */
+	align-self: center;
+}
+
+nav a {
+	background-color: red;
+	color: white;
+	font-weight: bold;
+  text-align: center;
+	padding: 6px 20px;
+  text-decoration: none;
+  font-size: 1.25em;
+}
+
+nav a:hover {
+	color: black
+}
+
+nav h1 {
+	color: blue;
+	font-size: 4em;
+}
+
+a {
+	text-align: center;
+	/* height: 1em; */
+	margin: 0.5em;
+}
+
+img {
+	float: right;
+	/* order: 0; */
+	padding: 2em;
+	object-fit: cover;
+	width: 15em;
+	height: 15em;
+	border-radius: 50%;
+	align-self: center;
+}
+
+ul {
+	list-style-type: circle;
+	font-weight: bold;
+	font-size: larger;
+}
