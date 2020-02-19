@@ -1,0 +1,66 @@
+body {
+	color: Black;
+	background: #F2DEBD;
+	margin: 10%;
+	font-family: "Georgia", serif;
+	text-align: justify 
+}
+
+p {
+	font-size: 1.25em;
+	text-indent: 3%;
+	margin-top: 0.25em;
+	margin-bottom: 0.25em; 
+}
+
+p::first-letter {
+	font-size: 225%;
+	font-style: italic;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+.img {
+	/* text-align: center; */
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.fig {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.toc {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	text-align: center; 
+	font-style: normal;
+	font-weight: normal; 
+	line-height: 1.5; 
+	margin-top: .5em; 
+	margin-bottom: .5em;
+}
+
+h1 {font-size: 200%;}
+h2 {font-size: 175%;}
+h3 {font-size: 200%;}
+h4 {font-size: 120%;}
+
+a:link {
+	color:black; 
+	text-decoration:underline;
+}
+
+a:visited {
+	color:red; 
+	text-decoration:none
+}
+
+a:hover {
+	color:red
+}

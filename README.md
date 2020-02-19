@@ -21,4 +21,16 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Questions:
+===========
+**Changes made in the gutenberg.html documents**
 
+
+
+References:
+===========
+https://www.w3schools.com/cssref/pr_text_text-decoration.asp
+https://css-tricks.com/almanac/selectors/f/first-letter/
+https://www.w3schools.com/cssref/pr_font_weight.asp
+https://www.wikihow.com/Download-All-Images-on-a-Web-Page-at-Once
+https://www.w3schools.com/howto/howto_css_image_center.asp

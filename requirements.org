@@ -28,10 +28,10 @@
 
 *** Requirements
 
-    - [ ] Theme paragraphs with CSS
-    - [ ] Theme header tags with CSS
+    - [x] Theme paragraphs with CSS
+    - [x] Theme header tags with CSS
     - [ ] Theme images and images captions with CSS
-    - [ ] Change the colour scheme to something aesthetically pleasing
+    - [x] Change the colour scheme to something aesthetically pleasing
     - [ ] Apply 1 CSS file to 3 gutenberg documents.
     - [ ] Include all 3 gutenberg documents HTML and assets, with the CSS applied.
     - [ ] document in your README what modifications you had to make
